@@ -12,3 +12,5 @@ The codes must add up to the given number.
 Also the codes must multiply to equal the given number.
 
 Do you think you can get through?
+
+![](breakin_vid.gif)
