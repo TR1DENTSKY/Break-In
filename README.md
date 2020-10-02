@@ -13,4 +13,8 @@ Also the codes must multiply to equal the given number.
 
 Do you think you can get through?
 
+# Tools
+
+- Visual Studio Code Version 1.49
+
 ![](breakin_vid.gif)
